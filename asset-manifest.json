@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/helloworld/static/css/main.c42e76c4.chunk.css",
+    "main.js": "/helloworld/static/js/main.b66032fc.chunk.js",
+    "main.js.map": "/helloworld/static/js/main.b66032fc.chunk.js.map",
+    "runtime-main.js": "/helloworld/static/js/runtime-main.3b1310d7.js",
+    "runtime-main.js.map": "/helloworld/static/js/runtime-main.3b1310d7.js.map",
+    "static/js/2.e76d5cad.chunk.js": "/helloworld/static/js/2.e76d5cad.chunk.js",
+    "static/js/2.e76d5cad.chunk.js.map": "/helloworld/static/js/2.e76d5cad.chunk.js.map",
+    "static/js/3.43c1dc31.chunk.js": "/helloworld/static/js/3.43c1dc31.chunk.js",
+    "static/js/3.43c1dc31.chunk.js.map": "/helloworld/static/js/3.43c1dc31.chunk.js.map",
+    "index.html": "/helloworld/index.html",
+    "static/css/main.c42e76c4.chunk.css.map": "/helloworld/static/css/main.c42e76c4.chunk.css.map",
+    "static/js/2.e76d5cad.chunk.js.LICENSE.txt": "/helloworld/static/js/2.e76d5cad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b1310d7.js",
+    "static/js/2.e76d5cad.chunk.js",
+    "static/css/main.c42e76c4.chunk.css",
+    "static/js/main.b66032fc.chunk.js"
+  ]
+}
