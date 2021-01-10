@@ -5,9 +5,7 @@ function App() {
     <div className="App">
       <div className="bg"></div>
       <div className="Hello">
-        Hello World!
-        <br/>
-        I'm Wozdonger
+        Hello World
       </div>
     </div>
   );
